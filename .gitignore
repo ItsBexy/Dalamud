@@ -328,3 +328,4 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/Dalamud/Interface/Components/ImGuiComponents.GameIconButton.cs
